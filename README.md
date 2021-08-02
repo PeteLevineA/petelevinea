@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://parodycinematicuniverse.com
-
+- 🔭 I'm currently working on tech remote inclusion at https://remoteinclusive.com `coming soon`
+- 🔭 I’ve written the front-end of https://parodycinematicuniverse.com
+- 🤔 One of my favorite hobbies is collecting domains and building side projects that I never finish
+- 👯 My favorite project `so far` was working with assistive technology at Craig Hospital! https://craighospital.org/services/assistive-technology
+- 💬 I absolutely love all things front-end, happy to help fumble through the nuances of JS and CSS with you!
+- ⚡ Fun fact: I am Native American and Caucasian. I was the vice president of the Native American Student Association at RIT `NASA!`
 <!--
 **PeteLevineA/petelevinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
